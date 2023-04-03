@@ -3,7 +3,7 @@ This is a simple command line tool that accesses [bible-api.com](https://bible-a
 
 ## **Installation**
 ```
-brew tap wzid/bible
+brew tap wzid/tap/bible
 brew install bible
 ```
 
